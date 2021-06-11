@@ -16,7 +16,7 @@ import { ToastrModule, ToastrService } from 'ngx-toastr';
   ],
   exports: [
     BsDropdownModule,
-    ToastrModule
+    ToastrModule 
   ]
 })
 export class SharedModule { }
